@@ -1,0 +1,192 @@
+.navbar-default {
+    border: none;
+    border-radius: 0px;
+    background-color: transparent;
+	border: none;
+    height:85px;
+	padding: 8px;
+	font-family: "effra";
+	font-weight:500;
+	font-size: 19px;
+}
+
+
+
+
+.logo{
+    height: 45px;
+}
+
+.bgimage {
+	background-image: url(../images/Header-bg-iamge.png);
+	background-position: center center;
+	background-size: cover;
+	padding: 0px;
+	display: block;
+}
+
+.navbar-right {
+	-webkit-font-smoothing: antialiased !important;
+	margin: 15px 25px 0 0
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #fff;
+	margin: 0 0px;
+	transition: background .25s;
+	border-radius: 6px;
+}
+
+.nav.navbar-nav.navbar-right li a:hover {
+    color: #0f9bf5;
+	background: #ffffff;
+	border-radius: 6px;
+}
+
+.navbar-nav>li>a {
+	padding: 12px 22px
+}
+
+.home-headline{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	font-family: "effra";
+	font-weight: 600;
+	-webkit-font-smoothing: antialiased !important;
+	line-height: 53px;
+	padding: 50px 0 0
+}
+h2 {
+	color: #fff;
+	font-family: "effra";
+	font-weight: 200;
+	font-size: 33px;
+	text-align: center;
+	
+}
+
+.header-image{
+	margin: 40px 0 0;
+}
+
+
+.row:before{
+	display:block;
+}
+
+.email-signup {
+	color:#fff;
+	background-color: #00aaff;
+	margin: -50px 0 0;
+	border-radius: 7px;
+	font-family: "effra";
+	font-size: 22.5px;
+	padding: 26px;
+	-webkit-font-smoothing: antialiased;
+	
+}
+
+.form-control {
+	height: 48px;
+	font-size: 18px;
+	padding: 0 0 0 18px;
+	border: solid 1px #fff;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.control-label {
+	margin: 8px 0 0
+}
+
+
+
+.btn-default {
+	height: 48px;
+	background-color: #0875b9;
+	font-size: 18px;
+	color: #fff;
+	font-weight: 600;
+	border: none;
+	padding: 10px
+	
+	
+}
+
+.btn-trynow {
+	background-color: #fff;
+	font-family: "effra";
+	font-size: 17px;
+	color: #15a7ff;
+	height: 60px;
+	width: 200px;
+	font-weight: 500;
+	padding: 16px 0 0;
+	border-radius: 7px;
+	margin: 40px 0 0
+		
+}
+
+.email-form {
+	width:auto;
+	left:0;
+	right:0;
+	
+}
+
+.record-message-btn {
+	padding: 0 28px
+}
+
+.form-inline {
+	text-align: center
+	
+}
+
+h3 {
+    font-family: "effra";
+    font-size: 40px;
+    color: #6c6c6c;
+    text-align: center;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.subhead {
+    font-family: "effra";
+    font-weight: 500;
+    font-size: 24px;
+    color: #919090;
+    text-align: center;
+    margin-top:20px;
+    -webkit-font-smoothing: antialiased !important;
+
+}
+
+.top-buffer-40 {
+    margin-top: 40px
+}
+
+.bottom-divider {
+    border-bottom: solid 1px #c7c7c7;
+    padding: 0 0 90px
+}
+
+p { 
+    font-family: "effra";
+    font-size: 20px;
+    color: #747474;
+    
+    
+}
+
+h4 {
+    font-family: "effra";
+    color: #108dc4;
+    margin:0 0 0;
+}
+
+.top-buffer-20 {
+    margin: 0 0 20px
+    
+}
